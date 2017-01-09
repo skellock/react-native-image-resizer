@@ -5,7 +5,7 @@
 //  Created by Florian Rival on 19/11/15.
 //
 
-#include <React/RCTImageResizer.h>
+#include "RCTImageResizer.h"
 #include "ImageHelpers.h"
 #import <React/RCTImageLoader.h>
 
